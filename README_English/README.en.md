@@ -1,7 +1,6 @@
 <div align="right" >
     <b>Select a language:</b><br>
-    <button><a href ="README.en.md">English</a></button>
-    <button><a href ="README.pt.md">Português</a></button>
+    <button><a href ="../README.md">Português</a></button>
 
 </div>
 
