@@ -1,8 +1,8 @@
 
 <div align="right" >
     <b>Selecione um idioma:</b><br>
-    <button><a href ="README.en.md">English</a></button>
-    <button><a href ="README.pt.md">Português</a></button>
+    <button><a href ="README_English/README.en.md">English</a></button>
+    
 </div>
 
 
