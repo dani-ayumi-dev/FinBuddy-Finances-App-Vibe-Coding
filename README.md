@@ -3330,14 +3330,31 @@ Explique qual funcionalidade deve ser implementada a seguir para gerar o maior v
 
 
 
-# 🖼️ Evidência
+# 🖼️ Evidências
 
-## Protótipo do FinBuddy
+## Protótipos do FinBuddy
 
-![Protótipo](./assets/prototipo.png)
+### Login:
+![Login](assets/login.gif)
+### Conversando com o chatbot:
+
+nota: existe um problema de tradução com o chatbot.
+
+![Conversando com chatbot](assets/chatting_with_chatbot.gif)
+### Adicionando dinheiro:
+![Adicionando dinheiro](assets/adding_money_.gif)
+### Informando gastos
+![Informando gastos](assets/spending_money.gif)
+### Adicionando metas 
+![Adicionando metas](assets/creating_goals.gif)
 
 *** 
+# Teste o app FinBuddy:
 
+<div align="center"><button><a href="https://finbuddygenz.lovable.app/auth">FinBuddy.App</a></button></div>
+
+
+***
 # 📚 Aprendizados
 
 Durante o desenvolvimento deste desafio aprendi:

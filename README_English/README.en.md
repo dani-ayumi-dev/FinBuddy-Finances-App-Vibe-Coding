@@ -490,13 +490,27 @@ Explain which feature should be implemented next to deliver the greatest possibl
 
 ***
 
-# 🖼️ Evidence
+# 🖼️ Evidences
 
-## FinBuddy Prototype
+## FinBuddy Prototypes
 
-![Prototype](./assets/prototipo.png)
+### Login:
+![Login](../assets/login.gif)
+### Chating with the chatbot:
 
+note: there's an issue regarding the chatbot translation from PT to EN.
+![Chatting with Chatbot](../assets/chatting_with_chatbot.gif)
+### Adding money:
+![Adding Money](../assets/adding_money_.gif)
+### Spendings:
+![Spendings](../assets/spending_money.gif)
+### Adding goals: 
+![Adding goals](../assets/creating_goals.gif)
 ***
+
+# Try FinBuddy:
+
+<div align="center"><button><a href="https://finbuddygenz.lovable.app/auth">FinBuddy.App</a></button></div>
 
 # 📚 Lessons Learned
 
@@ -506,3 +520,4 @@ During this challenge, I learned:
 - How to turn ideas into deliverables.
 - Prompt development.
 - Concepts such as RLS, Tailwind CSS, and PRDs.
+
